@@ -8,10 +8,11 @@ Criação de um projeto CICD utilizando Github Actions, ArgoCD e k8s no Kind (Ku
 * Configure os secrets no GitHub
 * Execute os scripts de setup
 * Faça push de uma alteração no código
-* Observe o pipeline automatizado:
 
-** GitHub Actions buildar e fazer push da imagem
-** ArgoCD detectar mudanças e fazer deploy
+### Observe o pipeline automatizado:
+
+* GitHub Actions builda e fazer push da imagem
+* ArgoCD detectar mudanças e faz deploy
 
 
 
